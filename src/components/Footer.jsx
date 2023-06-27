@@ -1,12 +1,10 @@
-import { FaGithub, FaHome, FaLinkedin, FaMailBulk, FaPhone, FaTwitter } from "react-icons/fa"
+import { FaGithub, FaLinkedin, FaMailBulk, FaPhone, FaTwitter } from "react-icons/fa"
 import "./Footer.css"
 import { Link } from "react-router-dom"
-
 
 const Footer = () => {
     return (
         <>
-
             <div className="footer">
                 <div className="contain">
                     <div className="col">
@@ -46,9 +44,6 @@ const Footer = () => {
                     </div>
                 </div>
             </div >
-
-
-
         </>
     )
 }
