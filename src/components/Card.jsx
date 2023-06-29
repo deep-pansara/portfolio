@@ -17,8 +17,8 @@ const Card = () => {
                     <div className="pro-details">
                         <p>Online fruit store website made with react.js, express.js and mongoDB</p>
                         <div className="pro-btns">
-                            <NavLink to="https://raw.githubusercontent.com/deep-pansara/fruit-store-react/master/img/fhome.jpeg" className="btn">View</NavLink>
-                            <NavLink to="https://github.com/deep-pansara/fruit-store-react" className="btn">Source</NavLink>
+                            <NavLink to="https://raw.githubusercontent.com/deep-pansara/JavaScript-Projects/master/js-small-projects.jpg" className="btn">View</NavLink>
+                            <NavLink to="https://github.com/deep-pansara/JavaScript-Projects" className="btn">Source</NavLink>
                         </div>
                     </div>
                 </div>

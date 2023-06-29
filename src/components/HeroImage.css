@@ -55,6 +55,13 @@
     font-size: 3rem;
   }
 
+  .intro-img {
+    display: none;
+  }
+  .hero {
+    background-image: url("../assets/sm-background.jpg");
+    background-size: cover;
+  }
   .hero .content p {
     font-size: 1.4rem;
   }
