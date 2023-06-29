@@ -25,12 +25,12 @@ const Card = () => {
 
 
                 <div className="project-card">
-                    <img src="https://raw.githubusercontent.com/deep-pansara/zomato-clone/master/img/logedin-img.jpeg" alt="" />
+                    <img src="https://raw.githubusercontent.com/deep-pansara/zomato-clone/master/img/zomato-full.jpg" alt="" />
                     <h2 className="project-title">Zomato Clone</h2>
                     <div className="pro-details">
                         <p>Online food delivery website made with MERN stack Technologies.</p>
                         <div className="pro-btns">
-                            <NavLink to="https://raw.githubusercontent.com/deep-pansara/zomato-clone/master/img/restaurantpage.jpeg" className="btn">View</NavLink>
+                            <NavLink to="https://raw.githubusercontent.com/deep-pansara/zomato-clone/master/img/zomato-full.jpg" className="btn">View</NavLink>
                             <NavLink to="https://github.com/deep-pansara/zomato-clone" className="btn">Source</NavLink>
                         </div>
                     </div>
